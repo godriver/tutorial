@@ -2,4 +2,5 @@
 add 変更をインデックスに登録する
 add 別ユーザーでログイン
 add gitユーザーでログイン
+add user:git
 add user:godriver
